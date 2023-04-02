@@ -8,9 +8,9 @@ A CLI application that generates checksum of files contained in a *store* direct
 Store:
 ```
 ├── dir-a
-│   └── file-a:     actual `file-a`
+│   └── file-a:             actual `file-a`
 │── dir-b
-└── file-c:         actual `file-c`
+└── file-c:                 actual `file-c`
 ```
 
 Repo:
